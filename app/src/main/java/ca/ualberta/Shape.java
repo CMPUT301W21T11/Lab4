@@ -1,7 +1,6 @@
 package ca.ualberta;
 
 public abstract class Shape {
-
     String color = "pink";
     private int x;
     private int y;
