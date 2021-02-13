@@ -1,7 +1,7 @@
 package ca.ualberta;
 
 public abstract class Shape {
-    String color = "Black";
+    String color = "purple";
     private int x;
     private int y;
     public Shape(int x, int y) {
